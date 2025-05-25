@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BookCollectorHQ",
+    "price": 320,
+    "delivery": "2 days",
+    "condition": "Mint"
+  },
+  {
+    "name": "RareReadsDirect",
+    "price": 300,
+    "delivery": "3–5 days",
+    "condition": "Near Mint"
+  },
+  {
+    "name": "PrestigeBooks",
+    "price": 350,
+    "delivery": "Next-day",
+    "condition": "Mint"
+  },
+  {
+    "name": "LegendsOfLit",
+    "price": 290,
+    "delivery": "5–7 days",
+    "condition": "Good"
+  }
+]
