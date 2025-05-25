@@ -110,8 +110,3 @@ Then visit: http://localhost:3000
 Dibyendu  
 GitHub: https://github.com/Luminus2002
 
----
-
-## 📄 License
-
-MIT
